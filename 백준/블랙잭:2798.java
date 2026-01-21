@@ -6,7 +6,7 @@ public class 블랙잭:2798 {
 
         int countNum = scan.nextInt();  // 카드(숫자) 개수 입력
         int maxNum = scan.nextInt();    // 넘지 말아야 할 최대 합 입력
-        int max = 0;                    // 최대 합을 저장할 현수
+        int max = 0;                    // 최대 합을 저장할 변수
 
         int[] arr = new int[countNum];  // 입력받은 숫자를 저장할 배열
 
