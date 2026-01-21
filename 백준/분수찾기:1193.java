@@ -1,4 +1,4 @@
-public class 분수찾기프로그램 {
+public class 분수찾기:1193 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     public static void main(String[] args) throws IOException {
         int x = Integer.parseInt(br.readLine());
